@@ -2419,7 +2419,7 @@ ul {
     }
 }
 
-@media(max-width:320px) {
+@media(max-width:320px){
     .main-page__main-title {
         font-size: 38px;
     }
@@ -2427,4 +2427,36 @@ ul {
         font-size: 38px;
         margin-top: -20px;
     }
+    .flex-foursteps{
+    display: none;
+  }
+  .btn{
+  margin-top: 126px;
+  padding-bottom: 30px;
+}
+    .wrapper{
+        max-width: 275px;
+    }
+    .our-stories-flexbox__item1-block1-speach-glass{
+    margin-left: 59px;
+  }
+  .our-stories-flexbox__item1-item1{
+    bottom: -17px;
+    left: 67px;
+    height: 92px;
+  }
+  .w-p-s__text{
+    text-align: center;
+    margin-left: -23px;
+  }
+  .footer-boolock-big__above-description{
+  color: #a6a1a1;
+  font-size: 15px;
+  margin-top: 19px;
+  width: 280px;
+}
+.forma-field{
+    width: 83%;
+    height: 36px;
+  }
 }
